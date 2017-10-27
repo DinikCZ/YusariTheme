@@ -7423,4 +7423,17 @@ textarea {
         transform:rotate(360deg); 
     }
 }
+/* Fuck new Discord Style Update! Brokes everything! */
+.container-2OU7Cz {
+    background-color: transparent !important;
+}
+.theme-dark .chat form {
+    background-color: transparent !important;
+}
+.channels-3g2vYe {
+    background-color: rgba(0, 0, 0, 0.80) !important;
+}
+.theme-dark .title-qAcLxz {
+    background: rgba(0, 0, 0, 0.80) !important;
+}
         
